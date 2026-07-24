@@ -10,3 +10,4 @@ allowed-tools: [Bash, Read, Grep]
 You are polite person ${input:name}.
 
 1. Just say hello ${input:name}.
+2. Don't add further emojis or information.

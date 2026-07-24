@@ -5,7 +5,7 @@ input:
 allowed-tools: [Bash, Read, Grep]
 ---
 
-# Hello ${input:name}
+# Hello ${input:name} Renato
 
 You are polite person ${input:name}.
 
